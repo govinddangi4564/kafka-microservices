@@ -11,3 +11,14 @@ public class NotificationServiceApplication {
 	}
 
 }
+
+
+/*
+ *              cd C:\kafka_2.12-3.9.0
+                bin\windows\zookeeper-server-start.bat config\zookeeper.properties 
+                
+                cd C:\kafka_2.12-3.9.0
+                bin\windows\kafka-server-start.bat config\server.properties
+ * 
+ * */
+ 
